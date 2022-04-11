@@ -11,9 +11,11 @@ I'm currently learning Swift and I have set my goals to finish an app in 3-6 mon
 How to get to know me:
 
 Discord
+
 @Mango#4444
 
 Instagram
+
 @einmalemil
 
 <!---
