@@ -1,19 +1,12 @@
-Hello,
-
-thank you for visiting my page.
-
 Software Developer based in Stuttgart, Germany.
-
 
 Contact me:
 
 Discord
 
-@Mango#4444
+@mangotic
 
-Instagram
 
-@einmalemil
 
 <!---
 Mangotic/Mangotic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
